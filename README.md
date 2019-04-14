@@ -4,6 +4,7 @@ All test cases passed.
 Assumption: Program takes in single input at any point in time.
 
 Instructions to run:
+
 *Clone repository
 *Cd into the repository
 *run javac *.java
